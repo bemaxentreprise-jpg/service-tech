@@ -64,3 +64,6 @@ Il reconnaît aussi le type d’intervention souhaité :
 
 Les catégories ont beaucoup plus de synonymes :
 gros électroménager, petit électroménager, TV, consoles, ordinateur, antivirus, téléphone/tablette, Wi‑Fi/réseau, câbles/rangement.
+
+
+V7 : rubrique QR Code retirée du site.

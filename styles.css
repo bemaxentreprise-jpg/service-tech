@@ -424,34 +424,6 @@ footer{padding:28px 20px;text-align:center;color:var(--muted);font-weight:700}
   font-weight:950;
   cursor:pointer;
 }
-.qr-section{padding-top:20px}
-.qr-card{
-  display:grid;
-  grid-template-columns:1fr 220px;
-  gap:24px;
-  align-items:center;
-  background:white;
-  border-radius:34px;
-  padding:30px;
-  box-shadow:0 15px 45px rgba(13,24,45,.07);
-}
-.qr-placeholder{
-  height:190px;
-  border-radius:28px;
-  background:
-    linear-gradient(90deg, rgba(13,24,45,.08) 1px, transparent 1px),
-    linear-gradient(rgba(13,24,45,.08) 1px, transparent 1px),
-    var(--soft-blue);
-  background-size:22px 22px;
-  display:grid;
-  place-items:center;
-  text-align:center;
-  color:var(--blue);
-  font-weight:950;
-}
-.qr-placeholder span{font-size:3rem}
-.qr-placeholder small{display:block;color:var(--muted);font-size:.8rem;margin-top:4px}
 @media (max-width:760px){
   .chatbot{right:14px;bottom:14px}
-  .qr-card{grid-template-columns:1fr}
 }
